@@ -2,7 +2,7 @@
 
 # 🚀 100 Days Machine Learning Roadmap
 
-*(Python → ML → Deep Learning → Projects → Deployment → Job Prep)*
+"*(Python → ML → Deep Learning → Projects → Deployment → Job Prep)*"
 
 ---
 
