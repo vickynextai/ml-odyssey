@@ -7,7 +7,7 @@ Goal → Build ML expertise from basics → advanced → projects → deployment
 ## ✅ Progress Tracker
 
 ### **Phase 1: Foundations (Day 1–10)**
-- [ ] **Day 1:** Intro to ML (supervised vs unsupervised)  
+- [x] **Day 1:** Intro to ML (supervised vs unsupervised, reinforcement)  
 - [ ] **Day 2:** Linear Regression (math + sklearn) → predict house price  
 - [ ] **Day 3:** Multiple Linear Regression → Advertising dataset  
 - [ ] **Day 4:** Logistic Regression → Titanic survival prediction  
