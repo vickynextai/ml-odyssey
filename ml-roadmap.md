@@ -8,7 +8,7 @@
 
 ## 📍 Phase 1: Python + Math (Day 1–20)
 
-* [ ] **Day 1:** Python basics (print, datatypes, variables) → Mini calculator
+* [x] **Day 1:** Python basics (print, datatypes, variables) → Mini calculator
 * [ ] **Day 2:** Loops & conditionals → factorial, table
 * [ ] **Day 3:** Functions & Lists → Fibonacci generator
 * [ ] **Day 4:** Dictionaries, Tuples, Sets → word frequency counter
